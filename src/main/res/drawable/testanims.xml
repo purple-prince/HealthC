@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <animation-list android:id="@+id/selected" android:oneshot="false">
+        <item android:drawable="@drawable/testanim1" android:duration="100" />
+        <item android:drawable="@drawable/testanim2" android:duration="100" />
+        <item android:drawable="@drawable/testanim3" android:duration="100" />
+        <item android:drawable="@drawable/testanim4" android:duration="100" />
+        <item android:drawable="@drawable/testanim5" android:duration="100" />
+        <item android:drawable="@drawable/testanim6" android:duration="100" />
+    </animation-list>
+
+</selector>
